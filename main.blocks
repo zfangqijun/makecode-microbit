@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="o@sTA+7Td,entI:lFoi^">index</variable><variable id="L%m$6uy)AX:fz,TXti::">请问</variable></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="o@sTA+7Td,entI:lFoi^">index</variable><variable id="L%m$6uy)AX:fz,TXti::">请问</variable></variables><block type="device_forever" id="As}J.DW)gEd*k#j=sG*m" x="222" y="416"></block><block type="device_button_event" id="7Y6q39wyf]oIQ/4ZF3}D" x="467" y="601"><field name="NAME">Button.A</field></block></xml>
